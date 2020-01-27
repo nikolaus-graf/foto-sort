@@ -1,0 +1,6 @@
+foto-sort:
+  fotoSortInfoList:
+    - sourceDirectory: D:/Fotos/Patrick_und_Christoph/201803
+      targetDirectory: ./sorted/201803
+    - sourceDirectory: D:/Fotos/Patrick_und_Christoph/201804
+      targetDirectory: ./sorted/201804
